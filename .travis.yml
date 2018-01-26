@@ -1,6 +1,6 @@
 language: go
 
-go_import_path: mvdan.cc/xurls
+go_import_path: github.com/gojuno/xurls
 
 go:
   - 1.8.x
