@@ -9,9 +9,6 @@ import (
 	"regexp"
 )
 
-//go:generate go run generate/tldsgen/main.go
-//go:generate go run generate/schemesgen/main.go
-
 const (
 	letter    = `\p{L}`
 	mark      = `\p{M}`
